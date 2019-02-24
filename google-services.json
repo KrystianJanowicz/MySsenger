@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "322847521653",
+    "firebase_url": "https://mojmessenger-aea19.firebaseio.com",
+    "project_id": "mojmessenger-aea19",
+    "storage_bucket": "mojmessenger-aea19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322847521653:android:a9d24476ff6b0532",
+        "android_client_info": {
+          "package_name": "com.example.kris.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322847521653-h4n4uhrhm01dbe0h53gaiht1t97ldu96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVuwOHK3_s_RsDAN8Olc57K71My3fQi48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
